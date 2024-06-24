@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mike-production-now
-- 👀 I’m interested in coding, web development, and market analysis.
+- 👀 I’m interested in coding, web development, and statistics.
 - 🌱 I’m currently learning full-stack web development.
 - 💞️ I’m looking to collaborate on web development, game developement, and accessibility tools.
 - 📫 How to reach me (will define in time)
